@@ -10,7 +10,7 @@
   </a>
  
 </div>
-Hey! 👋 I'm Muhammad, an Apprentice at Multiverse. I love programming, playing football, and building projects.
+Hey! 👋 I'm Muhammad, an Apprentice software engineer at Multiverse. I love programming, playing football, and building projects.
 
 ## Tech Stack
 - Languages: TS, Elixir, Python, JS (Node), HTML/CSS
