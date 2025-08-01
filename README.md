@@ -10,12 +10,15 @@
   </a>
  
 </div>
-Hey! 👋 I'm Muhammad, a Software engineer at Multiverse. I'm really interested in usign software to make real impact <br>
+Hey! 👋 I'm Muhammad, a Software engineer at Multiverse. I'm really interested in building software that will shape the future 🌌<br>
 Outside of work I like playing football, solving puzzles and travelling.
 
 ## Tech Stack
-- Languages: TS, Elixir, Python, JS (Node), HTML/CSS
-- Databases: Postgres, MongoDB
-- Tools/Frameworks: Next.js, React, NodeJS, Spring, Git & GitHub
+- <strong>Languages:</strong> TS, Elixir, Python, JS (Node), HTML/CSS
+- <strong>Frameworks/Libraries:</strong> Next.js, React, Phoenix(Elixir), Tailwind, TensorFlow, PyTorch, NumPy
+- <strong>Databases:</strong> Postgres, MongoDB, Supabase
 
-Explore my projects and let's connect! Happy coding! 🚀
+If you're reading this, you might as well look at my <em>pinned projects</em> 😉
+<p>
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGFwc3k5MXpqYjB1dTlkYmo5aXY4dHFuOWN2dmNjOWN1aTV4bGpiZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4iSVO6nOOBtBUce8o0/giphy.gif" width="300" />
+</p>
