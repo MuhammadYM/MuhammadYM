@@ -14,7 +14,7 @@
   </a>
  
 </div>
-Hey! 👋 I'm Muhammad, a Software engineer at Multiverse. I'm really interested in building software that will shape the future 🌌<br>
+Hey! 👋 I'm Muhammad, a Full Stack Software engineer based on planet earth. I'm really interested in building software that will shape the future 🌌<br>
 Outside of work I like playing football, solving puzzles and travelling.
 
 ## Tech Stack
