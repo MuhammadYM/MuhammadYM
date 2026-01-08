@@ -18,8 +18,8 @@ Hey! 👋 I'm Muhammad, a Full Stack Software engineer based on planet earth. I'
 Outside of work I like playing football, solving puzzles and travelling.
 
 ## Tech Stack
-- <strong>Languages:</strong> TS, Elixir, Python, JS (Node), HTML/CSS
-- <strong>Frameworks/Libraries:</strong> Next.js, React, Phoenix(Elixir), Tailwind, TensorFlow, PyTorch, NumPy
+- <strong>Languages:</strong> TS, Elixir, Python, HTML/CSS
+- <strong>Frameworks/Libraries:</strong> Next.js, React, Phoenix(Elixir), FastAPI, Tailwind, TensorFlow, PyTorch, NumPy, Sckit-Learn
 - <strong>Databases:</strong> Postgres, MongoDB, Supabase
 
 If you're reading this, you might as well look at my <em>pinned projects</em> 😉
