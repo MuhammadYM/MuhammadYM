@@ -15,7 +15,7 @@
  
 </div>
 Oláá! 👋 I'm Muhammad, a Full Stack Software engineer based on planet earth. I'm really interested in building software that will shape the future 🌌<br>
-Outside of work I like playing football, solving puzzles and travelling.
+Outside of work I like playing football, solving puzzles(ever heard of cryptic crosswords?) and travelling.
 
 ## Tech Stack
 - <strong>Languages:</strong> TS, Elixir, Python, HTML/CSS
