@@ -1,4 +1,4 @@
-# Muhammad's GitHub 🚀
+# Muhammad's GitHub 
 
 <div align="left">
   <a href="https://www.linkedin.com/in/muhammad-m-187213227/" target="_blank ">
