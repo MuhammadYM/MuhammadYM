@@ -10,7 +10,7 @@
   </a>
 
  <a href="https://mulio.vercel.app/" target="_blank">
- <img src="https://cdn-icons-png.flaticon.com/512/3018/3018421.png" height="25" alt="Portfolio"  />
+ Portfolio
   </a>
  
 </div>
