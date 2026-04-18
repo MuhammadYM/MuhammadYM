@@ -9,7 +9,7 @@
  <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="medium logo"  />
   </a>
 
- <a href="https://mulio.vercel.app/" target="_blank">
+ <a href="https://www.hiremeplz.xyz" target="_blank">
  Portfolio
   </a>
  
