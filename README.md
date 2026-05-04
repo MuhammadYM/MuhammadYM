@@ -9,7 +9,7 @@
  <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="medium logo"  />
   </a>
 
-<a href="https://your-portfolio-url.com" target="_blank" rel="noopener noreferrer">
+<a href="https://hiremeplz.xyz" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/Portfolio-75E4B3?style=for-the-badge" alt="Portfolio Badge" height="25"/>
 </a>
 
